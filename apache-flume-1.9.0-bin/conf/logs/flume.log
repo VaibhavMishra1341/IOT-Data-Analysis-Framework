@@ -1,0 +1,21 @@
+27 Jan 2023 09:44:44,255 ERROR [main] (org.apache.flume.node.Application.main:374)  - A fatal error occurred while running. Exception follows.
+org.apache.commons.cli.MissingArgumentException: Missing argument for option: f
+	at org.apache.commons.cli.Parser.processArgs(Parser.java:343)
+	at org.apache.commons.cli.Parser.processOption(Parser.java:393)
+	at org.apache.commons.cli.Parser.parse(Parser.java:199)
+	at org.apache.commons.cli.Parser.parse(Parser.java:85)
+	at org.apache.flume.node.Application.main(Application.java:287)
+27 Jan 2023 09:45:08,082 ERROR [main] (org.apache.flume.node.Application.main:374)  - A fatal error occurred while running. Exception follows.
+org.apache.commons.cli.MissingArgumentException: Missing argument for option: f
+	at org.apache.commons.cli.Parser.processArgs(Parser.java:343)
+	at org.apache.commons.cli.Parser.processOption(Parser.java:393)
+	at org.apache.commons.cli.Parser.parse(Parser.java:199)
+	at org.apache.commons.cli.Parser.parse(Parser.java:85)
+	at org.apache.flume.node.Application.main(Application.java:287)
+27 Jan 2023 09:45:16,326 ERROR [main] (org.apache.flume.node.Application.main:374)  - A fatal error occurred while running. Exception follows.
+org.apache.commons.cli.MissingArgumentException: Missing argument for option: f
+	at org.apache.commons.cli.Parser.processArgs(Parser.java:343)
+	at org.apache.commons.cli.Parser.processOption(Parser.java:393)
+	at org.apache.commons.cli.Parser.parse(Parser.java:199)
+	at org.apache.commons.cli.Parser.parse(Parser.java:85)
+	at org.apache.flume.node.Application.main(Application.java:287)
